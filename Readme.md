@@ -10,7 +10,10 @@
   
   It is also possible to use this as a standalone CAS PGT callback server that other CAS clients can use.
   
-  
+
+## Change Log
+
+- 2017/07/14: Update XML attributes parsing for specific XML userattributes nodes
 
 ## Installation
 
