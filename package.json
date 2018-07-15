@@ -1,6 +1,6 @@
 {
   "name": "cas",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Central Authentication Service (CAS) client for Node.js",
   "keywords": [
     "cas",
@@ -18,7 +18,9 @@
     }
   ],
   "dependencies": {
-    "cheerio": "^1.0.0-rc.2"
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.17.10",
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
     "chai": "^4.1.2",
